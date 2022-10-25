@@ -1,0 +1,194 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": 1,
+        "rating": {
+          "number": 4.5,
+          "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "JavaScript Can Change HTML Content",
+        "author": {
+          "name": "Jimmy Dane",
+          "published_date": "2022-08-24 17:27:34",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/VNdGd6X/Screenshot-2022-10-25-132238.png",
+        "details": "One of many JavaScript HTML methods is getElementById().The example below -finds- an HTML element (with id=demo), and changes the element content (innerHTML) to Hello JavaScript:"
+    },
+
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": 3,
+        "rating": {
+          "number": 4.5,
+          "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Using innerHTML",
+        "author": {
+          "name": "Jimmy Dane",
+          "published_date": "2022-08-24 17:27:34",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/VNdGd6X/Screenshot-2022-10-25-132238.png",
+        "details": "To access an HTML element, JavaScript can use the document.getElementById(id) method.The id attribute defines the HTML element. The innerHTML property defines the HTML content:"
+    },
+
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": 1,
+        "rating": {
+          "number": 4.8,
+          "badge": "Excellent"
+        },
+        "total_view": 400,
+        "title": "JavaScript Can Change HTML Attribute Values",
+        "author": {
+          "name": "Jennifer Wood",
+          "published_date": "2022-08-30 16:38:45",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/j9CnBLc/Screenshot-2022-10-25-134431.png",
+        "details": "In this example JavaScript changes the value of the src (source) attribute of an <img> tag"
+      },
+      {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": 2,
+        "rating": {
+          "number": 4.3,
+          "badge": "Excellent"
+        },
+        "total_view": 400,
+        "title": "The <script> Tag",
+        "author": {
+          "name": "Jennifer Wood",
+          "published_date": "2022-08-30 16:38:45",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/kDHMGc6/Screenshot-2022-10-25-135024.png",
+        "details": "In HTML, JavaScript code is inserted between <script> and </script> tags."
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": 3,
+        "rating": {
+          "number": 4.3,
+          "badge": "Excellent"
+        },
+        "total_view": 400,
+        "title": "The <script> Tag",
+        "author": {
+          "name": "Jennifer Wood",
+          "published_date": "2022-08-30 16:38:45",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/kDHMGc6/Screenshot-2022-10-25-135024.png",
+        "details": "In HTML, JavaScript code is inserted between <script> and </script> tags."
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": 4,
+        "rating": {
+          "number": 4.3,
+          "badge": "Excellent"
+        },
+        "total_view": 400,
+        "title": "The <script> Tag",
+        "author": {
+          "name": "Jennifer Wood",
+          "published_date": "2022-08-30 16:38:45",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/kDHMGc6/Screenshot-2022-10-25-135024.png",
+        "details": "In HTML, JavaScript code is inserted between <script> and </script> tags."
+    },
+    {
+        "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": 5,
+        "rating": {
+          "number": 4.3,
+          "badge": "Excellent"
+        },
+        "total_view": 400,
+        "title": "The <script> Tag",
+        "author": {
+          "name": "Jennifer Wood",
+          "published_date": "2022-08-30 16:38:45",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/kDHMGc6/Screenshot-2022-10-25-135024.png",
+        "details": "In HTML, JavaScript code is inserted between <script> and </script> tags."
+    },
+    {
+        "_id": "a713ee936ff5574273f0f769f5c5b20e",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": 6,
+        "rating": {
+          "number": 4.3,
+          "badge": "Excellent"
+        },
+        "total_view": 400,
+        "title": "The <script> Tag",
+        "author": {
+          "name": "Jennifer Wood",
+          "published_date": "2022-08-30 16:38:45",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/kDHMGc6/Screenshot-2022-10-25-135024.png",
+        "details": "In HTML, JavaScript code is inserted between <script> and </script> tags."
+    },
+    {
+        "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": 7,
+        "rating": {
+          "number": 4.3,
+          "badge": "Excellent"
+        },
+        "total_view": 400,
+        "title": "The <script> Tag",
+        "author": {
+          "name": "Jennifer Wood",
+          "published_date": "2022-08-30 16:38:45",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/kDHMGc6/Screenshot-2022-10-25-135024.png",
+        "details": "In HTML, JavaScript code is inserted between <script> and </script> tags."
+    }
+
+]
