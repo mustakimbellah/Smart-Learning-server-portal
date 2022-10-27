@@ -1,34 +1,39 @@
 [
-    {
-      "id": 1,
-      "name": "JavaScript Introduction"
+  {
+    "_id": "01",
+    "title": "React.js",
+    "details": "React (also known as React. js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
+    "image": "https://www.datocms-assets.com/45470/1631110818-logo-react-js.png"
     },
     {
-      "id": 2,
-      "name": "JavaScript Where To"
+      "_id": "02",
+      "title": "Node.js",
+      "details": "As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications. In the following hello world example, many connections can be handled concurrently. Upon each connection, the callback is fired, but if there is no work to be done, Node.js will sleep",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"
     },
     {
-      "id": 3,
-      "name": "JavaScript Output"
+      "_id": "03",
+      "title": "HTML",
+      "details": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png"
     },
     {
-      "id": 4,
-      "name": "JavaScript Output"
+      "_id": "04",
+      "title": "CSS",
+      "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"
     },
     {
-      "id": 5,
-      "name": "JavaScript Syntax"
+      "_id": "05",
+      "title": "CSS",
+      "details": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"
     },
     {
-      "id": 6,
-      "name": "JavaScript Comments"
-    },
-    {
-      "id": 7,
-      "name": "JavaScript Variables"
-    },
-    {
-      "id": 8,
-      "name": "All News"
+      "_id": "06",
+      "title": "CSS",
+      "details": "Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap, it does not provide a series of predefined classes for elements such as buttons or tables.",
+      "image": "https://tailwindcss.com/_next/static/media/social-square.eab77323.jpg"
     }
+    
   ]
