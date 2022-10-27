@@ -25,7 +25,7 @@
     },
     {
       "_id": "05",
-      "title": "CSS",
+      "title": "Bootstrap",
       "details": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"
     },
@@ -34,6 +34,12 @@
       "title": "Tailwind",
       "details": "Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap, it does not provide a series of predefined classes for elements such as buttons or tables.",
       "image": "https://tailwindcss.com/_next/static/media/social-square.eab77323.jpg"
+    },
+    {
+      "_id": "07",
+      "title": "MongoDB",
+      "details": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License which is deemed non-free by several distributions.",
+      "image": "image.png"
     }
     
   ]
